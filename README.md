@@ -3,7 +3,9 @@ Ce projet est réalisé dans le cadre de la formation "Data Scientist" d'OpenCla
 . Mettre en place le modèle d'apprentissage non supervisé adapté au problème métier 
 
 . Transformer les variables pertinentes d'un modèle d'apprentissage non supervisé 
+
 . Adapter les hyperparamètres d'un algorithme non supervisé afin de l'améliorer 
+
 . Évaluer les performances d’un modèle d'apprentissage non supervisé 
 
 De plus, il fallait aussi fournir une évaluation de la durée de la segmentation dans le but de proposer un contrat de maintenance aux clients.  
