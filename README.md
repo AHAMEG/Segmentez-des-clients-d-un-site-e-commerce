@@ -1,4 +1,4 @@
-# Segmentez-des-clients-d-un-site-e-commerce
+# Segmentez des clients d'un site e-commerce
 Ce projet est réalisé dans le cadre de la formation "Data Scientist" d'OpenClassrooms en partenariat avec Centrale Sup'Elec.  Dans ce projet, les compétences évaluées sont :  
 . Mettre en place le modèle d'apprentissage non supervisé adapté au problème métier 
 
